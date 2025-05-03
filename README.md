@@ -15,3 +15,11 @@ The main objective of this platform is to help candidates gain confidence for in
 - Receive personalized tips, advice, and feedback.
 - Pay-per-session model for interviews with professionals.
 
+### Collaboration and contribution🤝🧑‍💻
+
+I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
+
+##### For Discuss more about project, reach out to me (techabhay06@gmail.com)
+
+### Thank you for visiting this repository😊
+Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝🧑‍💻🚀
