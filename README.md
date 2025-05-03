@@ -15,6 +15,13 @@ The main objective of this platform is to help candidates gain confidence for in
 - Receive personalized tips, advice, and feedback.
 - Pay-per-session model for interviews with professionals.
 
+### Tech stack💻
+- Python <a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="java" width="20" height="20"/>
+
+- Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
+
+##### [Currently, I am working only with these programming languages, but I would use other tech stacks depending on the application.]
+
 ### Collaboration and contribution🤝🧑‍💻
 
 I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
